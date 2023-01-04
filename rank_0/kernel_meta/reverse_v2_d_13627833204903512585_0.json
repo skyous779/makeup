@@ -1,0 +1,13 @@
+{
+    "binFileName":"reverse_v2_d_13627833204903512585_0",
+    "binFileSuffix":".o",
+    "blockDim":32,
+    "kernelName":"reverse_v2_d_13627833204903512585_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0
+    ],
+    "sha256":"8cff252c11f7017dea811e5a53b54a8ff099ddbee8c267281c89525c0656879f"
+}

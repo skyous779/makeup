@@ -1,0 +1,17 @@
+{
+    "batchBindOnly":1,
+    "binFileName":"binary_cross_entropy_grad_12616595490197228017_0",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "kernelName":"binary_cross_entropy_grad_12616595490197228017_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "sha256":"48aeefa5f33a3b74e0227548bf83cffdceaca940f09d235249c1c46ebb15e2c9"
+}

@@ -1,0 +1,15 @@
+{
+    "binFileName":"binary_cross_entropy_9016063570351986529_0",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "kernelName":"binary_cross_entropy_9016063570351986529_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0,
+        0,
+        1
+    ],
+    "sha256":"b9b7a3bd30f23054cb91087046d968688300364c4c221e10bca82aeb1b3fad7b"
+}
